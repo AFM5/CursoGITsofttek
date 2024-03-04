@@ -1,0 +1,7 @@
+frescos.txt
+hola.txt
+
+#temporales
+
+temporales/**/*.*
+!temporales/**/*.txt
