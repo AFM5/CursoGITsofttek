@@ -1,1 +1,8 @@
 lechuga
+tomate
+<<<<<<< HEAD
+puerro
+ajos
+calabaza
+=======
+>>>>>>> parent of de54824 (feat(all): combinación de commits)
