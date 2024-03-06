@@ -1,6 +1,10 @@
 lechuga
 tomate
 puerro
+<<<<<<< HEAD
 ajos
 calabaza
 calabacin
+=======
+ajos
+>>>>>>> parent of 9f6855e (recuperado el reset)
