@@ -1,2 +1,4 @@
 lechuga
 tomate
+puerro
+ajos
