@@ -1,0 +1,6 @@
+<<<<<<< Updated upstream
+=======
+que tal
+todo
+un cambio
+>>>>>>> Stashed changes
